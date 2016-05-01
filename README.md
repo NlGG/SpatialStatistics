@@ -10,5 +10,6 @@
 ・データ解析のための統計モデリング入門: 一般化線形モデル・階層ベイズモデル・MCMC 久保拓弥  
   [著者のページ(データセットあり)](http://hosho.ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html)  
 
-
+#### [その他](various.ipynb)
+・空間統計に関する諸々の備忘録。
 
