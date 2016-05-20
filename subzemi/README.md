@@ -13,6 +13,6 @@
 7/08 Network Formation  
 [notebook](5.ipynb)  
 7/15 社会ネットワーク. Manski(1993).
-[notebook](6.ipynb)
+[notebook](6.ipynb)  
 7/22 GIS.不動産市場.機械学習.  
 [notebook](7.ipynb)
