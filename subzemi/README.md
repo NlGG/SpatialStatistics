@@ -8,9 +8,9 @@
 ### 予定
 6/10 空間統計とは何か. 空間的影響の検定. (空間統計学chap1、chap2、chap3)  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/1.ipynb)  
-6/17 一般化線形モデル、空間ベイズ. (データ解析のための統計モデリング入門chap11)  
+6/17 地球統計学. (空間統計学chap5)  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/2.ipynb)  
-6/24 地球統計学. (空間統計学chap5)  
+6/24 一般化線形モデル、空間ベイズ. (データ解析のための統計モデリング入門chap11)  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/3.ipynb)  
 7/01 空間計量経済学. (空間統計学chap6)  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/4.ipynb)  
