@@ -4,7 +4,7 @@
 ### 空間統計学-自然科学から人文・社会科学まで-統計ライブラリー-瀬谷-創  
 [Amazon](https://www.amazon.co.jp/空間統計学-自然科学から人文・社会科学まで-統計ライブラリー-瀬谷/dp/4254128312)    
 
-### Introduction to Spatial Econometrics (Statistics: A Series of Textbooks and Monographs)   
+### Introduction to Spatial Econometrics   
 [Amazon](https://www.amazon.co.jp/Introduction-Spatial-Econometrics-Statistics-Monographs/dp/142006424X?ie=UTF8&*Version*=1&*entries*=0)  
 ### [地理空間データ分析](geosp_analysis)  
 参考資料:  
