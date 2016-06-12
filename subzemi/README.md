@@ -19,7 +19,7 @@
 [著者のページ(データセットあり)](http://hosho.ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html)  
 
 ### 予定
-6/10 空間統計とは何か. 空間的影響の検定. (空間統計学chap1、chap2、chap3)   
+6/10 空間統計とは何か. 空間的影響の検定. (空間統計学chap1、chap2、chap3、chap4)   
 [slide](第1講空間相関.pdf)  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/1.ipynb)   
 6/17 空間計量経済学. (空間統計学chap6)  
