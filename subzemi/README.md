@@ -28,9 +28,9 @@
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/3.ipynb)  
 7/01 地球統計学. (空間統計学chap5)  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/4.ipynb)  
-7/08 Network Formation. 社会ネットワーク. Manski(1993).  
+7/08 社会ネットワーク. Manski(1993).  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/5.ipynb)  
-7/15 GIS.不動産市場.機械学習.   
+7/15 GIS.不動産市場.     
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/6.ipynb)  
 7/22 予備日.   
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/7.ipynb)
