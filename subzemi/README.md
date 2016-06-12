@@ -6,7 +6,7 @@
 ・練習として不動産市場の計量分析か社会ネットワークの計量分析を行う.  
 
 ### 参考書  
-### 空間統計学-自然科学から人文・社会科学まで-統計ライブラリー-瀬谷-創  
+### 空間統計学-自然科学から人文・社会科学まで-  
 [Amazon](https://www.amazon.co.jp/空間統計学-自然科学から人文・社会科学まで-統計ライブラリー-瀬谷/dp/4254128312)    
 
 ### Introduction to Spatial Econometrics   
@@ -19,9 +19,9 @@
 [著者のページ(データセットあり)](http://hosho.ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html)  
 
 ### 予定
-6/10 空間統計とは何か. 空間的影響の検定. (空間統計学chap1、chap2、chap3) 
-[slide](第1講空間相関.pdf)
-[notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/1.ipynb)  
+6/10 空間統計とは何か. 空間的影響の検定. (空間統計学chap1、chap2、chap3)   
+[slide](第1講空間相関.pdf)  
+[notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/1.ipynb) 
 6/17 空間計量経済学. (空間統計学chap6)  
 [notebook](http://nbviewer.jupyter.org/github/NlGG/SpatialStatistics/blob/master/subzemi/2.ipynb)  
 6/24 空間計量経済学. (空間統計学chap6)  
