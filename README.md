@@ -5,6 +5,7 @@
 [Amazon](https://www.amazon.co.jp/空間統計学-自然科学から人文・社会科学まで-統計ライブラリー-瀬谷/dp/4254128312)    
 
 ### Introduction to Spatial Econometrics   
+[本文](http://enistat.lecture.ub.ac.id/files/2013/02/James_LeSage_Robert_Kelley_Pace-Introduction_to_Spatial_Econometrics_Statistics___A_Series_of_Textbooks_and_Monographs-Chapman_and_Hall_CRC2009.pdf)  
 [Amazon](https://www.amazon.co.jp/Introduction-Spatial-Econometrics-Statistics-Monographs/dp/142006424X?ie=UTF8&*Version*=1&*entries*=0)  
 ### [地理空間データ分析](geosp_analysis)  
 参考資料:  
